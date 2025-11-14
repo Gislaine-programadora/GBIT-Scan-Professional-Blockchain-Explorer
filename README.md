@@ -1,7 +1,7 @@
-##  GBIT-Scan – Professional Blockchain Explorer
+##     GBIT-Scan – Professional Blockchain Explorer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gislaine-programadora/GBIT-Scan-Professional-Blockchain-Explorer/main/.github/banner-gbitscan.png" width="40%" />
+  <img src="https://raw.githubusercontent.com/Gislaine-programadora/GBIT-Scan-Professional-Blockchain-Explorer/main/.github/banner-gbitscan.png" width="70%" />
 </p>
 
 
