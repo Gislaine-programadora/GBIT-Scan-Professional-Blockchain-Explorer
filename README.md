@@ -3,9 +3,9 @@
 Frontend desenvolvido com Vite e TypeScript para o projeto brockchain-gbit-scan.
 CRIADO COM O  GBIT-FRAMEWORK usando frontend com  Vite e TypeScript.
 
-´´´bash
-npx create-gbit-app brockchain-gbit-scan
-´´´
+```bash
+npx create-gbit-app Brockchain-gbit-scan 
+```
 
 ## 🚀 Tecnologias
 
