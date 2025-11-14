@@ -11,7 +11,9 @@
 O GBIT-Scan é um explorador de blockchain profissional que permite visualizar blocos, transações, carteiras, tokens e informações da rede de forma rápida e eficiente.
 Construído com arquitetura moderna, design elegante e foco em performance.
 
-https://raw.githubusercontent.com/Gislaine-programadora/GBIT-Scan-Professional-Blockchain-Explorer/main/.assets/gbit-framework.png
+## link platform: https://frontend-nine-nu-23.vercel.app/
+
+## link homePage- Gbit-Framework: https://gislaine-programadora.github.io/Framework-gbit/
 
 
 ## GBIT Framework – Modern Full-Stack Blockchain Development
