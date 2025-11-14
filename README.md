@@ -6,7 +6,7 @@ CRIADO COM O  GBIT-FRAMEWORK usando frontend com  Vite e TypeScript.
 ## Comando usado 
 
 ```bash
-npx create-gbit-app Brockchain-gbit-scan 
+npx create-gbit-app brockchain-gbit-scan 
 ```
 
 ## 🚀 Tecnologias
