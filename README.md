@@ -1,6 +1,10 @@
 GBIT-Scan – Professional Blockchain Explorer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gislaine-programadora/GBIT-Scan-Professional-Blockchain-Explorer/main/.github/banner-gbitscan.png" width="100%" />
+</p>
 
-<p align="center"> <img src="https://lumi.new/lumi.ing/logo.png" width="140" alt="GBIT Scan Logo"/> </p> <p align="center"> <strong>GBIT-Scan</strong> — A next-generation, high-performance blockchain explorer built with the <strong>GBIT Framework</strong>, React, TypeScript and Vite. </p>
+
+
 🚀 Sobre o Projeto
 
 O GBIT-Scan é um explorador de blockchain profissional que permite visualizar blocos, transações, carteiras, tokens e informações da rede de forma rápida e eficiente.
