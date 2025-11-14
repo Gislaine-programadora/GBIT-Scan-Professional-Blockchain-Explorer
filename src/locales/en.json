@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "GBIT-Scan - Professional Blockchain Explorer",
+    "description": "GBIT-Scan — A high-performance blockchain explorer for viewing blocks, transactions, wallets and network statistics."
+  },
+  "header": {
+    "brand": "GBIT-Scan",
+    "subtitle": "Blockchain Explorer",
+    "nav": {
+      "home": "Home",
+      "blockchain": "Blockchain",
+      "tokens": "Tokens",
+      "resources": "Resources"
+    }
+  },
+  "hero": {
+    "title": "Explore the GBIT Blockchain",
+    "subtitle": "Search for transactions, addresses, blocks, and more",
+    "searchPlaceholder": "Search by Address / Txn Hash / Block / Token"
+  },
+  "stats": {
+    "blockHeight": "Block Height",
+    "transactions24h": "Transactions (24h)",
+    "tps": "TPS",
+    "avgBlockTime": "Avg Block Time",
+    "activeAddresses": "Active Addresses",
+    "marketCap": "Market Cap"
+  },
+  "tabs": {
+    "blocks": "Latest Blocks",
+    "transactions": "Latest Transactions"
+  },
+  "blocks": {
+    "miner": "Miner",
+    "txns": "txns"
+  },
+  "footer": {
+    "brand": "GBIT-Scan",
+    "tagline": "Professional Blockchain Explorer powered by GBIT Framework",
+    "copyright": "© 2025 GBIT-Scan. All rights reserved."
+  }
+}
